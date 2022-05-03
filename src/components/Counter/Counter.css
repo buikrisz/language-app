@@ -1,0 +1,19 @@
+.counter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.counter .icon {
+    width: 24px;
+    height: 24px;
+    color: #FF6700;
+}
+
+.counter h6 {
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FF6700;
+}
